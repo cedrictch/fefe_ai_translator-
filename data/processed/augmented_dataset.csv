@@ -1,0 +1,777 @@
+input,output
+Salut.,Mbɔ̃ɔ̃ lá!
+Hello.,Mbɔ̃ɔ̃ lá!
+Mbɔ̃ɔ̃ lá!,Salut.
+Mbɔ̃ɔ̃ lá!,Hello.
+Salut mon frère/ma sœur.,Mbōō lá mēmmā ò!
+Hello my,Mbōō lá mēmmā ò!
+Mbōō lá mēmmā ò!,Salut mon frère/ma sœur.
+Mbōō lá mēmmā ò!,Hello my
+Comment ça va ?,Yáá mà lāhā ?
+How are you?,Yáá mà lāhā ?
+Yáá mà lāhā ?,Comment ça va ?
+Yáá mà lāhā ?,How are you?
+Ça va bien.,Yáá mànnák
+I am fine.,Yáá mànnák
+Yáá mànnák,Ça va bien.
+Yáá mànnák,I am fine.
+"Ça va bien, merci. Ça va bien, merci.","Yáá mànnák, ngă pén Ā."
+"I am fine, thank","Yáá mànnák, ngă pén Ā."
+"Yáá mànnák, ngă pén Ā.","Ça va bien, merci. Ça va bien, merci."
+"Yáá mànnák, ngă pén Ā.","I am fine, thank"
+Et toi ?,Wò yō lá ō ?
+How about you?,Wò yō lá ō ?
+Wò yō lá ō ?,Et toi ?
+Wò yō lá ō ?,How about you?
+"Je suis en santé, merci.","Ngă ntèn, ngă pén ō."
+"I am in good health, thank you.","Ngă ntèn, ngă pén ō."
+"Ngă ntèn, ngă pén ō.","Je suis en santé, merci."
+"Ngă ntèn, ngă pén ō.","I am in good health, thank you."
+Qui es-tu ?,Ŏ má wā?
+Who are you?,Ŏ má wā?
+Ŏ má wā?,Qui es-tu ?
+Ŏ má wā?,Who are you?
+Présente-toi.,Là'sì nã ò.
+Introduce yourself.,Là'sì nã ò.
+Là'sì nã ò.,Présente-toi.
+Là'sì nã ò.,Introduce yourself.
+Comment tu t'appelles? Quel est ton nom?,Zēn zo má wā?
+What's your name?,Zēn zo má wā?
+Zēn zo má wā?,Comment tu t'appelles? Quel est ton nom?
+Zēn zo má wā?,What's your name?
+Je m'appelle ... mon nom est...,Zen ză má...
+My name is...,Zen ză má...
+Zen ză má...,Je m'appelle ... mon nom est...
+Zen ză má...,My name is...
+Je m'appelle Ngèēnzhwî; mon nom est Ngèēnzhwî,Zēn zǎ má Ngèēnzhwî.
+My name is Ngèēnzhwî,Zēn zǎ má Ngèēnzhwî.
+Zēn zǎ má Ngèēnzhwî.,Je m'appelle Ngèēnzhwî; mon nom est Ngèēnzhwî
+Zēn zǎ má Ngèēnzhwî.,My name is Ngèēnzhwî
+Quel âge as-tu ?,Ô ghă ngù' sữa ? Õ ghăn ngănzā sī’ū ?
+How,Ô ghă ngù' sữa ? Õ ghăn ngănzā sī’ū ?
+Ô ghă ngù' sữa ? Õ ghăn ngănzā sī’ū ?,Quel âge as-tu ?
+Ô ghă ngù' sữa ? Õ ghăn ngănzā sī’ū ?,How
+J'ai neuf ans.,Ngăn ghăn ngănzā và'ū.
+I am nine years old.,Ngăn ghăn ngănzā và'ū.
+Ngăn ghăn ngănzā và'ū.,J'ai neuf ans.
+Ngăn ghăn ngănzā và'ū.,I am nine years old.
+"Et toi, quel âge as-tu ?","Wò yō, Ŏ ghŭ ngŭ'nzā sū’ū ?"
+"And you,","Wò yō, Ŏ ghŭ ngŭ'nzā sū’ū ?"
+"Wò yō, Ŏ ghŭ ngŭ'nzā sū’ū ?","Et toi, quel âge as-tu ?"
+"Wò yō, Ŏ ghŭ ngŭ'nzā sū’ū ?","And you,"
+J'ai 25 ans.,Ngã ghăn ngănzā ncò ti mà māmbúá.
+I am 25 years,Ngã ghăn ngănzā ncò ti mà māmbúá.
+Ngã ghăn ngănzā ncò ti mà māmbúá.,J'ai 25 ans.
+Ngã ghăn ngănzā ncò ti mà māmbúá.,I am 25 years
+Quel est ton éloge (nom honorifique) ?,Ndàà mŏ má ká?
+What is your honorific name?,Ndàà mŏ má ká?
+Ndàà mŏ má ká?,Quel est ton éloge (nom honorifique) ?
+Ndàà mŏ má ká?,What is your honorific name?
+Qui est cette personne ?,Wã béé è ?
+Who is this person?,Wã béé è ?
+Wã béé è ?,Qui est cette personne ?
+Wã béé è ?,Who is this person?
+Qui est-ce ? C'est qui ?,Wã bá ā?
+Who is it?,Wã bá ā?
+Wã bá ā?,Qui est-ce ? C'est qui ?
+Wã bá ā?,Who is it?
+Qui est-il/elle ?,Ă má wā?
+Who is he/she?,Ă má wā?
+Ă má wā?,Qui est-il/elle ?
+Ă má wā?,Who is he/she?
+C'est mon ami(e).,Sēn à bá.
+He/She is my friend.,Sēn à bá.
+Sēn à bá.,C'est mon ami(e).
+Sēn à bá.,He/She is my friend.
+Il/elle est mon ami(e).,Ă má sẽn à.
+He/she is my friend.,Ă má sẽn à.
+Ă má sẽn à.,Il/elle est mon ami(e).
+Ă má sẽn à.,He/she is my friend.
+Comment s'appelle ton ami ?,Zén sẽn ŏ má wā?
+What is your,Zén sẽn ŏ má wā?
+Zén sẽn ŏ má wā?,Comment s'appelle ton ami ?
+Zén sẽn ŏ má wā?,What is your
+Comment s'appelle-t-il/elle ?,Zēn zì má wā?
+What's his/her,Zēn zì má wā?
+Zēn zì má wā?,Comment s'appelle-t-il/elle ?
+Zēn zì má wā?,What's his/her
+Mon ami s'appelle Yámānì.,Zén sẽn ǎ má Yámānì.
+My friend's name is Yámānì.,Zén sẽn ǎ má Yámānì.
+Zén sẽn ǎ má Yámānì.,Mon ami s'appelle Yámānì.
+Zén sẽn ǎ má Yámānì.,My friend's name is Yámānì.
+As-tu des amis ?,Ŏ ghй nsen?
+Do you have friends?,Ŏ ghй nsen?
+Ŏ ghй nsen?,As-tu des amis ?
+Ŏ ghй nsen?,Do you have friends?
+J'ai un ami.,Ngă ghăn tà' sẽn.
+I have a friend.,Ngă ghăn tà' sẽn.
+Ngă ghăn tà' sẽn.,J'ai un ami.
+Ngă ghăn tà' sẽn.,I have a friend.
+Il s'appelle Mfìènkàk.,Zēn zỉ má Mfìènkàk.
+His name is,Zēn zỉ má Mfìènkàk.
+Zēn zỉ má Mfìènkàk.,Il s'appelle Mfìènkàk.
+Zēn zỉ má Mfìènkàk.,His name is
+J'ai un ami garçon.,Ngă ghǎ tà' sẽn yì mbâ'.
+I have a male,Ngă ghǎ tà' sẽn yì mbâ'.
+Ngă ghǎ tà' sẽn yì mbâ'.,J'ai un ami garçon.
+Ngă ghǎ tà' sẽn yì mbâ'.,I have a male
+J'ai une amie fille.,Ngă ghǎ tà' sẽn yì mùnzhwiē.
+I have a,Ngă ghǎ tà' sẽn yì mùnzhwiē.
+Ngă ghǎ tà' sẽn yì mùnzhwiē.,J'ai une amie fille.
+Ngă ghǎ tà' sẽn yì mùnzhwiē.,I have a
+J'ai un ami garçon et une amie fille.,Ngã ghủ tà' sẽn vì mba' pí tà' sẽn vì mànzhwiē.
+I have a male friend and a female friend.,Ngã ghủ tà' sẽn vì mba' pí tà' sẽn vì mànzhwiē.
+Ngã ghủ tà' sẽn vì mba' pí tà' sẽn vì mànzhwiē.,J'ai un ami garçon et une amie fille.
+Ngã ghủ tà' sẽn vì mba' pí tà' sẽn vì mànzhwiē.,I have a male friend and a female friend.
+Et,Pí
+And,Pí
+Pí,Et
+Pí,And
+Avec qui ?,Pí wā ?
+With whom?,Pí wā ?
+Pí wā ?,Avec qui ?
+Pí wā ?,With whom?
+Avec quoi ?,Pí ká?
+With what?,Pí ká?
+Pí ká?,Avec quoi ?
+Pí ká?,With what?
+Avec moi.,Pí mù.
+With me.,Pí mù.
+Pí mù.,Avec moi.
+Pí mù.,With me.
+Avec qui est-elle venue?,Ă sà' pí wā?
+With whom did she,Ă sà' pí wā?
+Ă sà' pí wā?,Avec qui est-elle venue?
+Ă sà' pí wā?,With whom did she
+Avec quoi est-elle venue?,Ă sà' pí ká?
+What did she come with?,Ă sà' pí ká?
+Ă sà' pí ká?,Avec quoi est-elle venue?
+Ă sà' pí ká?,What did she come with?
+Elle est venue avec la viande.,Ă sà' pí mbàà.
+She came with,Ă sà' pí mbàà.
+Ă sà' pí mbàà.,Elle est venue avec la viande.
+Ă sà' pí mbàà.,She came with
+Comment s'appellent tes amis ?,Nzén nsēn mbŏ má wā ?
+What,Nzén nsēn mbŏ má wā ?
+Nzén nsēn mbŏ má wā ?,Comment s'appellent tes amis ?
+Nzén nsēn mbŏ má wā ?,What
+Ils s'appellent ...,Nzẽn yàá má ...
+Their name are ...,Nzẽn yàá má ...
+Nzẽn yàá má ...,Ils s'appellent ...
+Nzẽn yàá má ...,Their name are ...
+Connais-tu son nom?,Ŏ zhí zen zì ?
+Do you know his name?,Ŏ zhí zen zì ?
+Ŏ zhí zen zì ?,Connais-tu son nom?
+Ŏ zhí zen zì ?,Do you know his name?
+"Non, je ne connais pas son nom.","Ngǎ', ǹ ka' zhi zen ză bă."
+"No, I don't know his name.","Ngǎ', ǹ ka' zhi zen ză bă."
+"Ngǎ', ǹ ka' zhi zen ză bă.","Non, je ne connais pas son nom."
+"Ngǎ', ǹ ka' zhi zen ză bă.","No, I don't know his name."
+"Non, pas du tout.","Ngǎ' nā à, ză!"
+Not at all.,"Ngǎ' nā à, ză!"
+"Ngǎ' nā à, ză!","Non, pas du tout."
+"Ngǎ' nā à, ză!",Not at all.
+"Oui, je sais.","nh, ngă zhí."
+"Yes, I know.","nh, ngă zhí."
+"nh, ngă zhí.","Oui, je sais."
+"nh, ngă zhí.","Yes, I know."
+"Non, je ne sais pas.","Ngǎ', ǹ kà' zhi bā."
+"No, I don't know.","Ngǎ', ǹ kà' zhi bā."
+"Ngǎ', ǹ kà' zhi bā.","Non, je ne sais pas."
+"Ngǎ', ǹ kà' zhi bā.","No, I don't know."
+Je crois que oui.,"Ngă kwà' fà'á, ngă kwà má fjh."
+I think so.,"Ngă kwà' fà'á, ngă kwà má fjh."
+"Ngă kwà' fà'á, ngă kwà má fjh.",Je crois que oui.
+"Ngă kwà' fà'á, ngă kwà má fjh.",I think so.
+Je ne crois pas.,"N ka' kwá' bā, ǹ ka' kwá' fà'á."
+I don't think so.,"N ka' kwá' bā, ǹ ka' kwá' fà'á."
+"N ka' kwá' bā, ǹ ka' kwá' fà'á.",Je ne crois pas.
+"N ka' kwá' bā, ǹ ka' kwá' fà'á.",I don't think so.
+J'ai quatre frères et sœurs.,Ngă ghǎ póómā kwà.
+I have four siblings.,Ngă ghǎ póómā kwà.
+Ngă ghǎ póómā kwà.,J'ai quatre frères et sœurs.
+Ngă ghǎ póómā kwà.,I have four siblings.
+Aimes-tu les amis ?,Ŏnká' nsen?
+Do you like friends?,Ŏnká' nsen?
+Ŏnká' nsen?,Aimes-tu les amis ?
+Ŏnká' nsen?,Do you like friends?
+Je n'aime pas les amis.,N si' nkwé' nsen bā.
+I do not like friends.,N si' nkwé' nsen bā.
+N si' nkwé' nsen bā.,Je n'aime pas les amis.
+N si' nkwé' nsen bā.,I do not like friends.
+"Même pas un peu, pas du tout.","Mbà nèhẽ, mbà mēnsàà."
+"Not even a little, not at all.","Mbà nèhẽ, mbà mēnsàà."
+"Mbà nèhẽ, mbà mēnsàà.","Même pas un peu, pas du tout."
+"Mbà nèhẽ, mbà mēnsàà.","Not even a little, not at all."
+Je n'aime du tout pas la viande.,N ka' kwé' mbàà mbà nèhē.
+I don't like meat at all.,N ka' kwé' mbàà mbà nèhē.
+N ka' kwé' mbàà mbà nèhē.,Je n'aime du tout pas la viande.
+N ka' kwé' mbàà mbà nèhē.,I don't like meat at all.
+As-tu un ordinateur ?,Ŏ ghǎ sähndó ó?
+Do you have a,Ŏ ghǎ sähndó ó?
+Ŏ ghǎ sähndó ó?,As-tu un ordinateur ?
+Ŏ ghǎ sähndó ó?,Do you have a
+Oui j'ai un ordinateur.,Ih ! Ngă ghǎ sähndó'.
+"Yes, I have a computer.",Ih ! Ngă ghǎ sähndó'.
+Ih ! Ngă ghǎ sähndó'.,Oui j'ai un ordinateur.
+Ih ! Ngă ghǎ sähndó'.,"Yes, I have a computer."
+Bien sûr ! J'ai ça.,jh bâ! Ngă ghǎ yāā.
+Of course! I have it.,jh bâ! Ngă ghǎ yāā.
+jh bâ! Ngă ghǎ yāā.,Bien sûr ! J'ai ça.
+jh bâ! Ngă ghǎ yāā.,Of course! I have it.
+"De nos jours, chacun devrait avoir ça.",Ná nzá ngǎ'è lè mbàwālá ghù mbúá ghй yāā.
+These days everyone should have it.,Ná nzá ngǎ'è lè mbàwālá ghù mbúá ghй yāā.
+Ná nzá ngǎ'è lè mbàwālá ghù mbúá ghй yāā.,"De nos jours, chacun devrait avoir ça."
+Ná nzá ngǎ'è lè mbàwālá ghù mbúá ghй yāā.,These days everyone should have it.
+As-tu un téléphone?,Ŏ ghǎ lòlò ó ? Ŏ ghu nkhănken?
+Do you have a phone?,Ŏ ghǎ lòlò ó ? Ŏ ghu nkhănken?
+Ŏ ghǎ lòlò ó ? Ŏ ghu nkhănken?,As-tu un téléphone?
+Ŏ ghǎ lòlò ó ? Ŏ ghu nkhănken?,Do you have a phone?
+Oui j'ai un téléphone.,Пh! Ngă ghu nkhunkèn.
+"Yes, I have a phone.",Пh! Ngă ghu nkhunkèn.
+Пh! Ngă ghu nkhunkèn.,Oui j'ai un téléphone.
+Пh! Ngă ghu nkhunkèn.,"Yes, I have a phone."
+Je n'en ai pas besoin.,Yää si' mfá' səǝwú mbú á bā. Yāā sï' nkōsi á ná sə̀ɔ̃wú bā.
+I don't need it.,Yää si' mfá' səǝwú mbú á bā. Yāā sï' nkōsi á ná sə̀ɔ̃wú bā.
+Yää si' mfá' səǝwú mbú á bā. Yāā sï' nkōsi á ná sə̀ɔ̃wú bā.,Je n'en ai pas besoin.
+Yää si' mfá' səǝwú mbú á bā. Yāā sï' nkōsi á ná sə̀ɔ̃wú bā.,I don't need it.
+Ta mère a une voiture?,Mã é ghŭ ndu' ú?
+Does your mother have a car?,Mã é ghŭ ndu' ú?
+Mã é ghŭ ndu' ú?,Ta mère a une voiture?
+Mã é ghŭ ndu' ú?,Does your mother have a car?
+Aimes-tu l'école ?,Ŏ kwě nŭ ŋwà'nì í?
+Do you like school?,Ŏ kwě nŭ ŋwà'nì í?
+Ŏ kwě nŭ ŋwà'nì í?,Aimes-tu l'école ?
+Ŏ kwě nŭ ŋwà'nì í?,Do you like school?
+Je n'aime pas aller à l'école; cette histoire est très difficile.,È si' nkwé' làh ngén ŋwà'nì bā; báá wú ngá' tà'.
+I do not like to go to school; that thing is very difficult.,È si' nkwé' làh ngén ŋwà'nì bā; báá wú ngá' tà'.
+È si' nkwé' làh ngén ŋwà'nì bā; báá wú ngá' tà'.,Je n'aime pas aller à l'école; cette histoire est très difficile.
+È si' nkwé' làh ngén ŋwà'nì bā; báá wú ngá' tà'.,I do not like to go to school; that thing is very difficult.
+As-tu des frères et sœurs ?,Ŏ ghй póómā á?
+Do you have,Ŏ ghй póómā á?
+Ŏ ghй póómā á?,As-tu des frères et sœurs ?
+Ŏ ghй póómā á?,Do you have
+Combien de sœurs as-tu?,Ŏ ghǎ póómā pǎnzhwie sü'ü ?
+How many sisters do you have?,Ŏ ghǎ póómā pǎnzhwie sü'ü ?
+Ŏ ghǎ póómā pǎnzhwie sü'ü ?,Combien de sœurs as-tu?
+Ŏ ghǎ póómā pǎnzhwie sü'ü ?,How many sisters do you have?
+Combien de frères as-tu ?,Ŏ ghǎ póómā pōōmbā' sü'ū?
+How many brothers do you have?,Ŏ ghǎ póómā pōōmbā' sü'ū?
+Ŏ ghǎ póómā pōōmbā' sü'ū?,Combien de frères as-tu ?
+Ŏ ghǎ póómā pōōmbā' sü'ū?,How many brothers do you have?
+J'ai un frère.,Ngă ghu ta' mẽmmā yì mbâ'.
+I have a brother.,Ngă ghu ta' mẽmmā yì mbâ'.
+Ngă ghu ta' mẽmmā yì mbâ'.,J'ai un frère.
+Ngă ghu ta' mẽmmā yì mbâ'.,I have a brother.
+Mon frère s'appelle Ciêncɔ̃ā.,Zén mẽmmā ò mbá' má Ciencǝɔ̃.
+My brother's name is Ciencǝā.,Zén mẽmmā ò mbá' má Ciencǝɔ̃.
+Zén mẽmmā ò mbá' má Ciencǝɔ̃.,Mon frère s'appelle Ciêncɔ̃ā.
+Zén mẽmmā ò mbá' má Ciencǝɔ̃.,My brother's name is Ciencǝā.
+J'ai deux frères et une sœur.,Ngã ghă póómã poombā púa mbát ngủ mẽmmã mànzhwe nshu'.
+I have two brothers and a sister.,Ngã ghă póómã poombā púa mbát ngủ mẽmmã mànzhwe nshu'.
+Ngã ghă póómã poombā púa mbát ngủ mẽmmã mànzhwe nshu'.,J'ai deux frères et une sœur.
+Ngã ghă póómã poombā púa mbát ngủ mẽmmã mànzhwe nshu'.,I have two brothers and a sister.
+Y a-t-il des animaux chez vous ?,Nǝá mba mbèé pěn?
+Do you have animals at your home?,Nǝá mba mbèé pěn?
+Nǝá mba mbèé pěn?,Y a-t-il des animaux chez vous ?
+Nǝá mba mbèé pěn?,Do you have animals at your home?
+Vous élevez des animaux ?,Pěn nnāk no á?
+Do you raise animals?,Pěn nnāk no á?
+Pěn nnāk no á?,Vous élevez des animaux ?
+Pěn nnāk no á?,Do you raise animals?
+Nous élevons des poules.,Pǎh nnāk ngāp.
+We raise chickens.,Pǎh nnāk ngāp.
+Pǎh nnāk ngāp.,Nous élevons des poules.
+Pǎh nnāk ngāp.,We raise chickens.
+Avez-vous un chien ?,Pěn ghŭ mvua á?
+Do you have a dog?,Pěn ghŭ mvua á?
+Pěn ghŭ mvua á?,Avez-vous un chien ?
+Pěn ghŭ mvua á?,Do you have a dog?
+Oui! Nous avons un chien.,Ih ! Pǎh ghǎ tà' mvua.
+Yes! We have a dog.,Ih ! Pǎh ghǎ tà' mvua.
+Ih ! Pǎh ghǎ tà' mvua.,Oui! Nous avons un chien.
+Ih ! Pǎh ghǎ tà' mvua.,Yes! We have a dog.
+Je n'aime pas le chat.,N ka' kwé' ngòòndōm (bā).
+I don't like,N ka' kwé' ngòòndōm (bā).
+N ka' kwé' ngòòndōm (bā).,Je n'aime pas le chat.
+N ka' kwé' ngòòndōm (bā).,I don't like
+As-tu peur du chien ?,Ŏ mbōh mvua á ?
+Are you afraid of the dog?,Ŏ mbōh mvua á ?
+Ŏ mbōh mvua á ?,As-tu peur du chien ?
+Ŏ mbōh mvua á ?,Are you afraid of the dog?
+Je déteste le chien.,Ngă mbéé mvua.
+I hate dogs.,Ngă mbéé mvua.
+Ngă mbéé mvua.,Je déteste le chien.
+Ngă mbéé mvua.,I hate dogs.
+Qui est ta mère ?,Mã é má wā?
+Who is your mother?,Mã é má wā?
+Mã é má wā?,Qui est ta mère ?
+Mã é má wā?,Who is your mother?
+Comment s'appelle ta mère ?,Zén mã é má wā?
+What is your mother's name?,Zén mã é má wā?
+Zén mã é má wā?,Comment s'appelle ta mère ?
+Zén mã é má wā?,What is your mother's name?
+Ma mère s'appelle Kouemo.,Zén mavě má Nkwèèmōō.
+My mother's name is Nkwèèmōō.,Zén mavě má Nkwèèmōō.
+Zén mavě má Nkwèèmōō.,Ma mère s'appelle Kouemo.
+Zén mavě má Nkwèèmōō.,My mother's name is Nkwèèmōō.
+Comment s'appelle ton enseignant?,Zén nsìènsì Ŏ má wā?
+,Zén nsìènsì Ŏ má wā?
+Zén nsìènsì Ŏ má wā?,Comment s'appelle ton enseignant?
+Zén nsìènsì Ŏ má wā?,
+Mon enseignant s'appelle monsieur Ngatcheu.,Zén nsìènsì ǎ má mbā' Ngă'ncǝǝ.
+My teacher is called Mr. Ngǎ'ncǝ5.,Zén nsìènsì ǎ má mbā' Ngă'ncǝǝ.
+Zén nsìènsì ǎ má mbā' Ngă'ncǝǝ.,Mon enseignant s'appelle monsieur Ngatcheu.
+Zén nsìènsì ǎ má mbā' Ngă'ncǝǝ.,My teacher is called Mr. Ngǎ'ncǝ5.
+Mon enseignante s'appelle madame Deukam.,Zén nsìènsì ǎ má māvŏ Ndǝānkām.
+My teacher is called Mrs. Ndǝānkām.,Zén nsìènsì ǎ má māvŏ Ndǝānkām.
+Zén nsìènsì ǎ má māvŏ Ndǝānkām.,Mon enseignante s'appelle madame Deukam.
+Zén nsìènsì ǎ má māvŏ Ndǝānkām.,My teacher is called Mrs. Ndǝānkām.
+Dans quel pays vis-tu ?,Ŏnsi mà ná yàā lā' ?
+In which country do you live?,Ŏnsi mà ná yàā lā' ?
+Ŏnsi mà ná yàā lā' ?,Dans quel pays vis-tu ?
+Ŏnsi mà ná yàā lā' ?,In which country do you live?
+Dans quelle ville habites-tu ?,Ŏ nsi mà ná yàā tūsè'?
+In which city do you live?,Ŏ nsi mà ná yàā tūsè'?
+Ŏ nsi mà ná yàā tūsè'?,Dans quelle ville habites-tu ?
+Ŏ nsi mà ná yàā tūsè'?,In which city do you live?
+J'habite à Dschang.,Ngă nsi mà Ca'.
+I live in Dschang.,Ngă nsi mà Ca'.
+Ngă nsi mà Ca'.,J'habite à Dschang.
+Ngă nsi mà Ca'.,I live in Dschang.
+De qui es-tu l'enfant ?,Ŏ má mên wā?
+Whose child are you?,Ŏ má mên wā?
+Ŏ má mên wā?,De qui es-tu l'enfant ?
+Ŏ má mên wā?,Whose child are you?
+Qui est ton père ?,Mba' é má wā?
+Who is your father?,Mba' é má wā?
+Mba' é má wā?,Qui est ton père ?
+Mba' é má wā?,Who is your father?
+Comment s'appelle ton père ?,Zén mbā' é má wā?
+What is your father's name?,Zén mbā' é má wā?
+Zén mbā' é má wā?,Comment s'appelle ton père ?
+Zén mbā' é má wā?,What is your father's name?
+Mon père s'appelle Djiadeu.,Zén mba' ó má Zhìändǝǝ.
+My father's name is Zhìāndǝà.,Zén mba' ó má Zhìändǝǝ.
+Zén mba' ó má Zhìändǝǝ.,Mon père s'appelle Djiadeu.
+Zén mba' ó má Zhìändǝǝ.,My father's name is Zhìāndǝà.
+Avez-vous une radio? (A une seule personne),Ŏ ghu mbǎ'nken?
+Do you have a radio? (To one person),Ŏ ghu mbǎ'nken?
+Ŏ ghu mbǎ'nken?,Avez-vous une radio? (A une seule personne)
+Ŏ ghu mbǎ'nken?,Do you have a radio? (To one person)
+Écoutes-tu souvent la radio?,Ŏngú nju' mbu'nken?
+Do you often listen to the radio?,Ŏngú nju' mbu'nken?
+Ŏngú nju' mbu'nken?,Écoutes-tu souvent la radio?
+Ŏngú nju' mbu'nken?,Do you often listen to the radio?
+J'écoute la radio chaque jour.,Ngă nju' mbu'nkèn nkwèè lie'.
+I listen to the radio every day.,Ngă nju' mbu'nkèn nkwèè lie'.
+Ngă nju' mbu'nkèn nkwèè lie'.,J'écoute la radio chaque jour.
+Ngă nju' mbu'nkèn nkwèè lie'.,I listen to the radio every day.
+Je n'écoute pas la radio.,È si' nju' mbu'nkèn bã.
+I don't listen to the radio.,È si' nju' mbu'nkèn bã.
+È si' nju' mbu'nkèn bã.,Je n'écoute pas la radio.
+È si' nju' mbu'nkèn bã.,I don't listen to the radio.
+En quelle classe es-tu ?,Ŏ ná yàã ndüàŋwà'nì?
+What grade are you in?,Ŏ ná yàã ndüàŋwà'nì?
+Ŏ ná yàã ndüàŋwà'nì?,En quelle classe es-tu ?
+Ŏ ná yàã ndüàŋwà'nì?,What grade are you in?
+Je suis en quatrième année de l'école primaire.,Ngă ná ndua kwǎ ná ntūmbhì wǎ'ŋwà'nì.
+I am in the fourth grade of primary school/ I am in class four.,Ngă ná ndua kwǎ ná ntūmbhì wǎ'ŋwà'nì.
+Ngă ná ndua kwǎ ná ntūmbhì wǎ'ŋwà'nì.,Je suis en quatrième année de l'école primaire.
+Ngă ná ndua kwǎ ná ntūmbhì wǎ'ŋwà'nì.,I am in the fourth grade of primary school/ I am in class four.
+Je ne vais plus à l'école.,È si' nját ngén ŋwà'nì bā.
+I no longer go to school.,È si' nját ngén ŋwà'nì bā.
+È si' nját ngén ŋwà'nì bā.,Je ne vais plus à l'école.
+È si' nját ngén ŋwà'nì bā.,I no longer go to school.
+Es-tu marié ?,Ŏ láánduǎ á?
+Are you married?,Ŏ láánduǎ á?
+Ŏ láánduǎ á?,Es-tu marié ?
+Ŏ láánduǎ á?,Are you married?
+"Oui, je suis déjà marié.","Пh, ngǎ ya' lɔ̃ǝndüā."
+"Yes, I am already married.","Пh, ngǎ ya' lɔ̃ǝndüā."
+"Пh, ngǎ ya' lɔ̃ǝndüā.","Oui, je suis déjà marié."
+"Пh, ngǎ ya' lɔ̃ǝndüā.","Yes, I am already married."
+Je suis encore célibataire.,N njǎt má nshwièwèn.
+I am still single/bachelor.,N njǎt má nshwièwèn.
+N njǎt má nshwièwèn.,Je suis encore célibataire.
+N njǎt má nshwièwèn.,I am still single/bachelor.
+Je suis divorcé(e).,Ngă tóm láándüā.
+I am divorced.,Ngă tóm láándüā.
+Ngă tóm láándüā.,Je suis divorcé(e).
+Ngă tóm láándüā.,I am divorced.
+J'ai grandi au village.,N dàshwí mà mbèè.
+I grew up in the village.,N dàshwí mà mbèè.
+N dàshwí mà mbèè.,J'ai grandi au village.
+N dàshwí mà mbèè.,I grew up in the village.
+Je suis un (e) villageois(e).,Ngă má nsîmbèè.
+I am a villager.,Ngă má nsîmbèè.
+Ngă má nsîmbèè.,Je suis un (e) villageois(e).
+Ngă má nsîmbèè.,I am a villager.
+Où iras-tu pendant les vacances ?,Ŏ ingén hwiesì mà hã?
+Where will you go on vacation?,Ŏ ingén hwiesì mà hã?
+Ŏ ingén hwiesì mà hã?,Où iras-tu pendant les vacances ?
+Ŏ ingén hwiesì mà hã?,Where will you go on vacation?
+J'irai en vacances à Douala.,Ngă ingén hwiesi á Ndùālāɔ̃.
+I will go to Douala on vacation.,Ngă ingén hwiesi á Ndùālāɔ̃.
+Ngă ingén hwiesi á Ndùālāɔ̃.,J'irai en vacances à Douala.
+Ngă ingén hwiesi á Ndùālāɔ̃.,I will go to Douala on vacation.
+Quel genre de jeu aimes-tu?,Yàā ntie suà tá ó nkwé' ē?
+What kind of game do you like?,Yàā ntie suà tá ó nkwé' ē?
+Yàā ntie suà tá ó nkwé' ē?,Quel genre de jeu aimes-tu?
+Yàā ntie suà tá ó nkwé' ē?,What kind of game do you like?
+Quel est ton passe-temps? Quel est ton hobby?,Yò wúpíéndǎh má ká?
+What is your hobby?,Yò wúpíéndǎh má ká?
+Yò wúpíéndǎh má ká?,Quel est ton passe-temps? Quel est ton hobby?
+Yò wúpíéndǎh má ká?,What is your hobby?
+Mon passe-temps c'est écouter de la musique.,Yà wúmo má làh njū' yɔ̃nshì.
+My hobby is listening to music.,Yà wúmo má làh njū' yɔ̃nshì.
+Yà wúmo má làh njū' yɔ̃nshì.,Mon passe-temps c'est écouter de la musique.
+Yà wúmo má làh njū' yɔ̃nshì.,My hobby is listening to music.
+J'aime courir; j'aime la course à pied.,Ngăn nkwé' làh nkhoándūā; ngă kwě' nkhăndúa nkhù.
+I love to run; I like running/jogging.,Ngăn nkwé' làh nkhoándūā; ngă kwě' nkhăndúa nkhù.
+Ngăn nkwé' làh nkhoándūā; ngă kwě' nkhăndúa nkhù.,J'aime courir; j'aime la course à pied.
+Ngăn nkwé' làh nkhoándūā; ngă kwě' nkhăndúa nkhù.,I love to run; I like running/jogging.
+Je n'ai aucun loisir/hobby.,N ka' ghú sǝǝ wúpíéndàh.
+I have no leisure/hobby.,N ka' ghú sǝǝ wúpíéndàh.
+N ka' ghú sǝǝ wúpíéndàh.,Je n'ai aucun loisir/hobby.
+N ka' ghú sǝǝ wúpíéndàh.,I have no leisure/hobby.
+Aimes-tu danser?,Ŏ kwě' làh nzenshì í?
+Do you like to dance?,Ŏ kwě' làh nzenshì í?
+Ŏ kwě' làh nzenshì í?,Aimes-tu danser?
+Ŏ kwě' làh nzenshì í?,Do you like to dance?
+Aimes-tu écouter de la musique ?,Ŏ nká' làh nju' yɔ̃nshì í?
+Do you like listening to music?,Ŏ nká' làh nju' yɔ̃nshì í?
+Ŏ nká' làh nju' yɔ̃nshì í?,Aimes-tu écouter de la musique ?
+Ŏ nká' làh nju' yɔ̃nshì í?,Do you like listening to music?
+Aimes-tu la lecture?,Ŏ kwě' céhwū ú?
+Do you like reading?,Ŏ kwě' céhwū ú?
+Ŏ kwě' céhwū ú?,Aimes-tu la lecture?
+Ŏ kwě' céhwū ú?,Do you like reading?
+Aimes-tu la nage/natation?,Ŏ kǎ' náhnshì í?
+Do you like swimming?,Ŏ kǎ' náhnshì í?
+Ŏ kǎ' náhnshì í?,Aimes-tu la nage/natation?
+Ŏ kǎ' náhnshì í?,Do you like swimming?
+Aimes-tu nager?,Ŏ nkwé' lah nnähnshì í?
+Do you like to swim?,Ŏ nkwé' lah nnähnshì í?
+Ŏ nkwé' lah nnähnshì í?,Aimes-tu nager?
+Ŏ nkwé' lah nnähnshì í?,Do you like to swim?
+Je n'aime pas la nage.,N ka' kwé náhnshì (bā).
+I do not like swimming.,N ka' kwé náhnshì (bā).
+N ka' kwé náhnshì (bā).,Je n'aime pas la nage.
+N ka' kwé náhnshì (bā).,I do not like swimming.
+"Oui, j'aime la nage, mais je ne sais pas nager.","Пh! Ngǎ kwě náhnshì, tá' àì kà' zhi làh nnähnshì."
+"Yes, I love to swim, but I cannot","Пh! Ngǎ kwě náhnshì, tá' àì kà' zhi làh nnähnshì."
+"Пh! Ngǎ kwě náhnshì, tá' àì kà' zhi làh nnähnshì.","Oui, j'aime la nage, mais je ne sais pas nager."
+"Пh! Ngǎ kwě náhnshì, tá' àì kà' zhi làh nnähnshì.","Yes, I love to swim, but I cannot"
+Aimes-tu le sport?,Ŏ kwĕ' suämfù'nã á?
+Do you like sports?,Ŏ kwĕ' suämfù'nã á?
+Ŏ kwĕ' suämfù'nã á?,Aimes-tu le sport?
+Ŏ kwĕ' suämfù'nã á?,Do you like sports?
+J'aime tellement le sport.,Ngă kwě sùāmf 'nā tà mbúa là bã.
+I like sports a lot.,Ngă kwě sùāmf 'nā tà mbúa là bã.
+Ngă kwě sùāmf 'nā tà mbúa là bã.,J'aime tellement le sport.
+Ngă kwě sùāmf 'nā tà mbúa là bã.,I like sports a lot.
+Aimes-tu les enfants?,Ŏ kwĕ' punkhūā á?
+Do you like children?,Ŏ kwĕ' punkhūā á?
+Ŏ kwĕ' punkhūā á?,Aimes-tu les enfants?
+Ŏ kwĕ' punkhūā á?,Do you like children?
+Aimes-tu les vacances ?,Ŏ kwĕ' ntìè' ē hwiesì í?
+Do you like holidays?,Ŏ kwĕ' ntìè' ē hwiesì í?
+Ŏ kwĕ' ntìè' ē hwiesì í?,Aimes-tu les vacances ?
+Ŏ kwĕ' ntìè' ē hwiesì í?,Do you like holidays?
+"Non, je suis un accro au travail.","Ngǎ', ngă má mfa'ndiēkò."
+"No, I am a workaholic.","Ngǎ', ngă má mfa'ndiēkò."
+"Ngǎ', ngă má mfa'ndiēkò.","Non, je suis un accro au travail."
+"Ngǎ', ngă má mfa'ndiēkò.","No, I am a workaholic."
+Quel genre de musique aimes-tu ?,Yaa ntie yǎnshì tá ó nkwé' ē?
+What kind of music do you like?,Yaa ntie yǎnshì tá ó nkwé' ē?
+Yaa ntie yǎnshì tá ó nkwé' ē?,Quel genre de musique aimes-tu ?
+Yaa ntie yǎnshì tá ó nkwé' ē?,What kind of music do you like?
+J'aime le Madjong-Lali.,Ngă kwě' Mânjwè'-Lāli.
+I like Madjong- Lali.,Ngă kwě' Mânjwè'-Lāli.
+Ngă kwě' Mânjwè'-Lāli.,J'aime le Madjong-Lali.
+Ngă kwě' Mânjwè'-Lāli.,I like Madjong- Lali.
+Quel est ton chanteur préféré ?,Yaa njɔ̃nshì tá ó nkwé' nshúá zìmó' ō ?
+Who is your favorite singer?,Yaa njɔ̃nshì tá ó nkwé' nshúá zìmó' ō ?
+Yaa njɔ̃nshì tá ó nkwé' nshúá zìmó' ō ?,Quel est ton chanteur préféré ?
+Yaa njɔ̃nshì tá ó nkwé' nshúá zìmó' ō ?,Who is your favorite singer?
+Préférer.,Nkwé' nshúá (mò').
+To prefer.,Nkwé' nshúá (mò').
+Nkwé' nshúá (mò').,Préférer.
+Nkwé' nshúá (mò').,To prefer.
+Quel est ton repas préféré ?,Yàā ntie wúza tá ó nkwé' nshúá zìmó' ō?
+What is your favorite meal?,Yàā ntie wúza tá ó nkwé' nshúá zìmó' ō?
+Yàā ntie wúza tá ó nkwé' nshúá zìmó' ō?,Quel est ton repas préféré ?
+Yàā ntie wúza tá ó nkwé' nshúá zìmó' ō?,What is your favorite meal?
+Quelle est ta profession?,Yò túmfǎ' má ká?
+What is your profession?,Yò túmfǎ' má ká?
+Yò túmfǎ' má ká?,Quelle est ta profession?
+Yò túmfǎ' má ká?,What is your profession?
+Je suis étudiant informatique.,Ngăn má ngànwàni nó zhínüsāhndó'.
+I am studying computer science.,Ngăn má ngànwàni nó zhínüsāhndó'.
+Ngăn má ngànwàni nó zhínüsāhndó'.,Je suis étudiant informatique.
+Ngăn má ngànwàni nó zhínüsāhndó'.,I am studying computer science.
+Je suis un chercheur.,Ngă má ta' ncâkngà'.
+I am a researcher.,Ngă má ta' ncâkngà'.
+Ngă má ta' ncâkngà'.,Je suis un chercheur.
+Ngă má ta' ncâkngà'.,I am a researcher.
+Sais-tu cuisiner ?,Ŏ zhí làh ndǝɔ̃/nä' wúză á ?
+Do you cook? Can you cook?,Ŏ zhí làh ndǝɔ̃/nä' wúză á ?
+Ŏ zhí làh ndǝɔ̃/nä' wúză á ?,Sais-tu cuisiner ?
+Ŏ zhí làh ndǝɔ̃/nä' wúză á ?,Do you cook? Can you cook?
+Je ne suis pas une femme.,N si má mùnzhwie bā.
+I am not a,N si má mùnzhwie bā.
+N si má mùnzhwie bā.,Je ne suis pas une femme.
+N si má mùnzhwie bā.,I am not a
+Chez nous ce sont les femmes qui cuisinent.,Yáá mbā wú pàh pǎnzhwiẽ bā māndāɔ̃ wúzā.
+"In our home, it is women who cook.",Yáá mbā wú pàh pǎnzhwiẽ bā māndāɔ̃ wúzā.
+Yáá mbā wú pàh pǎnzhwiẽ bā māndāɔ̃ wúzā.,Chez nous ce sont les femmes qui cuisinent.
+Yáá mbā wú pàh pǎnzhwiẽ bā māndāɔ̃ wúzā.,"In our home, it is women who cook."
+"Oui, je sais cuisiner.",Пh ngă zhí làh ndāɔ̃/nā' wúzā.
+"Yes, I know how to cook.",Пh ngă zhí làh ndāɔ̃/nā' wúzā.
+Пh ngă zhí làh ndāɔ̃/nā' wúzā.,"Oui, je sais cuisiner."
+Пh ngă zhí làh ndāɔ̃/nā' wúzā.,"Yes, I know how to cook."
+Quel genre de plat sais-tu cuisiner ?,Yàā ntie wúzā tá ó zhi làh ndɔ̃ɔ̃ 5 ?
+What kind of food do you cook?,Yàā ntie wúzā tá ó zhi làh ndɔ̃ɔ̃ 5 ?
+Yàā ntie wúzā tá ó zhi làh ndɔ̃ɔ̃ 5 ?,Quel genre de plat sais-tu cuisiner ?
+Yàā ntie wúzā tá ó zhi làh ndɔ̃ɔ̃ 5 ?,What kind of food do you cook?
+Sais-tu conduire ?,Ŏ zhí làh mfák ndu' ú?
+Can you drive?,Ŏ zhí làh mfák ndu' ú?
+Ŏ zhí làh mfák ndu' ú?,Sais-tu conduire ?
+Ŏ zhí làh mfák ndu' ú?,Can you drive?
+Ton père a une voiture ?,Mba' é ghǎ ndu' ú?
+Does your father have a car?,Mba' é ghǎ ndu' ú?
+Mba' é ghǎ ndu' ú?,Ton père a une voiture ?
+Mba' é ghǎ ndu' ú?,Does your father have a car?
+Mon père n'aime pas la voiture.,Mba' ō si' nkwé' ndu' bā.
+My father doesn't like car.,Mba' ō si' nkwé' ndu' bā.
+Mba' ō si' nkwé' ndu' bā.,Mon père n'aime pas la voiture.
+Mba' ō si' nkwé' ndu' bā.,My father doesn't like car.
+"Mon père est un pauvre, par conséquent, il n'a pas la voiture.","Mba' ó má ngà'mbōk, fà'á lá, à kà' ghú ndu' bā."
+"My father is poor, therefore, he doesn't have a car.","Mba' ó má ngà'mbōk, fà'á lá, à kà' ghú ndu' bā."
+"Mba' ó má ngà'mbōk, fà'á lá, à kà' ghú ndu' bā.","Mon père est un pauvre, par conséquent, il n'a pas la voiture."
+"Mba' ó má ngà'mbōk, fà'á lá, à kà' ghú ndu' bā.","My father is poor, therefore, he doesn't have a car."
+Y a-t-il des souris chez vous?,Cwǎkhŭ mba mbèé pěn ?
+Do you,Cwǎkhŭ mba mbèé pěn ?
+Cwǎkhŭ mba mbèé pěn ?,Y a-t-il des souris chez vous?
+Cwǎkhŭ mba mbèé pěn ?,Do you
+"La nuit tombe déjà, il faut que je parte.",Njăm ya' mängwá. Yáá ncāk má ń nshùà/ngènà!
+"It is getting dark, I must go.",Njăm ya' mängwá. Yáá ncāk má ń nshùà/ngènà!
+Njăm ya' mängwá. Yáá ncāk má ń nshùà/ngènà!,"La nuit tombe déjà, il faut que je parte."
+Njăm ya' mängwá. Yáá ncāk má ń nshùà/ngènà!,"It is getting dark, I must go."
+"Il n'y a pas de problème mon frère/ma sœur, au revoir.","Ncà' si wū bā mēmmā ò, ôhó."
+"No problem my brother/sister, goodbye.","Ncà' si wū bā mēmmā ò, ôhó."
+"Ncà' si wū bā mēmmā ò, ôhó.","Il n'y a pas de problème mon frère/ma sœur, au revoir."
+"Ncà' si wū bā mēmmā ò, ôhó.","No problem my brother/sister, goodbye."
+Bienvenue !,Să' papē'/mbǝpā'! Sà' mbāā!
+Welcome!,Să' papē'/mbǝpā'! Sà' mbāā!
+Să' papē'/mbǝpā'! Sà' mbāā!,Bienvenue !
+Să' papē'/mbǝpā'! Sà' mbāā!,Welcome!
+"Merci mon frère, ma sœur.",Ngă pén ō mẽmmā ò!
+"Thank you, my brother, my sister.",Ngă pén ō mẽmmā ò!
+Ngă pén ō mẽmmā ò!,"Merci mon frère, ma sœur."
+Ngă pén ō mẽmmā ò!,"Thank you, my brother, my sister."
+Bienvenue mon père !,Sǎ' mbǝpā' lá mbā' ō !
+Welcome my father!,Sǎ' mbǝpā' lá mbā' ō !
+Sǎ' mbǝpā' lá mbā' ō !,Bienvenue mon père !
+Sǎ' mbǝpā' lá mbā' ō !,Welcome my father!
+Bienvenue maman!,Sà' mbǝǝ lá mā!
+Welcome mommy!,Sà' mbǝǝ lá mā!
+Sà' mbǝǝ lá mā!,Bienvenue maman!
+Sà' mbǝǝ lá mā!,Welcome mommy!
+Merci mon enfant.,Ngă pén ō men à !
+"Thank you, my child.",Ngă pén ō men à !
+Ngă pén ō men à !,Merci mon enfant.
+Ngă pén ō men à !,"Thank you, my child."
+Soyez les bienvenus ! (A plusieurs personnes),Pèn sá' pèpe'! Pèn sá' mbāā!
+Welcome! (To many people).,Pèn sá' pèpe'! Pèn sá' mbāā!
+Pèn sá' pèpe'! Pèn sá' mbāā!,Soyez les bienvenus ! (A plusieurs personnes)
+Pèn sá' pèpe'! Pèn sá' mbāā!,Welcome! (To many people).
+Bonjour !,Nzá lee è ?
+Good morning!,Nzá lee è ?
+Nzá lee è ?,Bonjour !
+Nzá lee è ?,Good morning!
+Bonjour ! (Réponse au bonjour),Yáá lēē zi. Ă léé yi.
+Good,Yáá lēē zi. Ă léé yi.
+Yáá lēē zi. Ă léé yi.,Bonjour ! (Réponse au bonjour)
+Yáá lēē zi. Ă léé yi.,Good
+Bonjour à toi!,Nzá lēẽ mbú ò? Yò nzá lēē è ?
+Good morning to you!,Nzá lēẽ mbú ò? Yò nzá lēē è ?
+Nzá lēẽ mbú ò? Yò nzá lēē è ?,Bonjour à toi!
+Nzá lēẽ mbú ò? Yò nzá lēē è ?,Good morning to you!
+Bonjour à tous !,Nzá lēē mbí pèn ? Yèè nzá lẽë è ?
+"Good morning, everyone!",Nzá lēē mbí pèn ? Yèè nzá lẽë è ?
+Nzá lēē mbí pèn ? Yèè nzá lẽë è ?,Bonjour à tous !
+Nzá lēē mbí pèn ? Yèè nzá lẽë è ?,"Good morning, everyone!"
+Bonjour ! (Réponse au bonjour quand plusieurs personnes répondent.),Yáá lēē zi. ǎ léé yi. Yòh nzá lēē.
+Good morning! (Answer to good morning when many people reply.),Yáá lēē zi. ǎ léé yi. Yòh nzá lēē.
+Yáá lēē zi. ǎ léé yi. Yòh nzá lēē.,Bonjour ! (Réponse au bonjour quand plusieurs personnes répondent.)
+Yáá lēē zi. ǎ léé yi. Yòh nzá lēē.,Good morning! (Answer to good morning when many people reply.)
+Bonjour ma femme.,Nzá lēē è nzhwie à ?
+Good morning my wife.,Nzá lēē è nzhwie à ?
+Nzá lēē è nzhwie à ?,Bonjour ma femme.
+Nzá lēē è nzhwie à ?,Good morning my wife.
+Bonjour mon mari. (Réponse au bonjour. Une femme à son mari.),Yáá lēē zi ndū à.
+Good morning my husband. (Answer to good morning. A wife to her husband.),Yáá lēē zi ndū à.
+Yáá lēē zi ndū à.,Bonjour mon mari. (Réponse au bonjour. Une femme à son mari.)
+Yáá lēē zi ndū à.,Good morning my husband. (Answer to good morning. A wife to her husband.)
+Bonjour mes frères et sœurs.,Nzá lēē è póómā ō?
+Good morning my brothers and sisters.,Nzá lēē è póómā ō?
+Nzá lēē è póómā ō?,Bonjour mes frères et sœurs.
+Nzá lēē è póómā ō?,Good morning my brothers and sisters.
+Bonjour mon ami.,Nzá lēē è sen à ?
+Good morning my friend.,Nzá lēē è sen à ?
+Nzá lēē è sen à ?,Bonjour mon ami.
+Nzá lēē è sen à ?,Good morning my friend.
+Salut!,Mbɔ̃a lá!
+"Hello, hi!",Mbɔ̃a lá!
+Mbɔ̃a lá!,Salut!
+Mbɔ̃a lá!,"Hello, hi!"
+"Salut mon frère, ma sœur !",Mbǝǝ lá mẽmmā ò!
+"Hello, my brother, my sister!",Mbǝǝ lá mẽmmā ò!
+Mbǝǝ lá mẽmmā ò!,"Salut mon frère, ma sœur !"
+Mbǝǝ lá mẽmmā ò!,"Hello, my brother, my sister!"
+Salut mes frères.,Pèn pāɔ̃ lá póómā!
+Hello my brothers.,Pèn pāɔ̃ lá póómā!
+Pèn pāɔ̃ lá póómā!,Salut mes frères.
+Pèn pāɔ̃ lá póómā!,Hello my brothers.
+Salut ma grand-mère.,Mbɔ̃ɔ̃ lá măvŏ ndāmà!
+Hello my grandmother.,Mbɔ̃ɔ̃ lá măvŏ ndāmà!
+Mbɔ̃ɔ̃ lá măvŏ ndāmà!,Salut ma grand-mère.
+Mbɔ̃ɔ̃ lá măvŏ ndāmà!,Hello my grandmother.
+Je te salue.,Ngă cà'sì ô lá !
+I greet you.,Ngă cà'sì ô lá !
+Ngă cà'sì ô lá !,Je te salue.
+Ngă cà'sì ô lá !,I greet you.
+Je te salue aussi.,Mbà mà ngã cà'sì ī lá !
+I greet you too.,Mbà mà ngã cà'sì ī lá !
+Mbà mà ngã cà'sì ī lá !,Je te salue aussi.
+Mbà mà ngã cà'sì ī lá !,I greet you too.
+"Je te salue, mon aîné(e).",Ngăn cà'sì ô lá ngà'mbhi à.
+"I greet you, my elder.",Ngăn cà'sì ô lá ngà'mbhi à.
+Ngăn cà'sì ô lá ngà'mbhi à.,"Je te salue, mon aîné(e)."
+Ngăn cà'sì ô lá ngà'mbhi à.,"I greet you, my elder."
+Je vous salue mes mamans!,Ngă cà'sì yēē lá pàmă pă !
+"I salute you, my mothers!",Ngă cà'sì yēē lá pàmă pă !
+Ngă cà'sì yēē lá pàmă pă !,Je vous salue mes mamans!
+Ngă cà'sì yēē lá pàmă pă !,"I salute you, my mothers!"
+Quoi de neuf ? Litt. quelles sont les nouvelles ?,Cwè'/cǝ' má ká?
+What's up?,Cwè'/cǝ' má ká?
+Cwè'/cǝ' má ká?,Quoi de neuf ? Litt. quelles sont les nouvelles ?
+Cwè'/cǝ' má ká?,What's up?
+Rien de neuf. Tout est vieux; litt. les nouvelles se sont refroidies.,Cwě'/cǎ' hwíé/shwíé
+Nothing much.,Cwě'/cǎ' hwíé/shwíé
+Cwě'/cǎ' hwíé/shwíé,Rien de neuf. Tout est vieux; litt. les nouvelles se sont refroidies.
+Cwě'/cǎ' hwíé/shwíé,Nothing much.
+Tout le monde va bien à la maison.,Cwè'/cò' mbèé hwíé/shwíé.
+Nothing much with the family.,Cwè'/cò' mbèé hwíé/shwíé.
+Cwè'/cò' mbèé hwíé/shwíé.,Tout le monde va bien à la maison.
+Cwè'/cò' mbèé hwíé/shwíé.,Nothing much with the family.
+"A toi aussi mon frère, ma sœur.",Mbă mbú ó yŏ lá mẽmmā ò.
+Same to you my brother/sister.,Mbă mbú ó yŏ lá mẽmmā ò.
+Mbă mbú ó yŏ lá mẽmmā ò.,"A toi aussi mon frère, ma sœur."
+Mbă mbú ó yŏ lá mẽmmā ò.,Same to you my brother/sister.
+"Bonne soirée à toi mon frère, ma sœur.",Mbè'mbè' mbūànzá mbú ó lá mẽmmā ò.
+Good evening to you my brother/sister.,Mbè'mbè' mbūànzá mbú ó lá mẽmmā ò.
+Mbè'mbè' mbūànzá mbú ó lá mẽmmā ò.,"Bonne soirée à toi mon frère, ma sœur."
+Mbè'mbè' mbūànzá mbú ó lá mẽmmā ò.,Good evening to you my brother/sister.
+Bonne nuit !,Die papē'/mbǝpā'!
+Good night!,Die papē'/mbǝpā'!
+Die papē'/mbǝpā'!,Bonne nuit !
+Die papē'/mbǝpā'!,Good night!
+Bonsoir!,Ŏ váh yō ò? Mbè'mbè' mbūànzā lá.
+Good evening!,Ŏ váh yō ò? Mbè'mbè' mbūànzā lá.
+Ŏ váh yō ò? Mbè'mbè' mbūànzā lá.,Bonsoir!
+Ŏ váh yō ò? Mbè'mbè' mbūànzā lá.,Good evening!
+Bonsoir maman!,Ŏ váh yō ò mā? Mbè'mbè' mbūànzā lá mā.
+Good evening mother!,Ŏ váh yō ò mā? Mbè'mbè' mbūànzā lá mā.
+Ŏ váh yō ò mā? Mbè'mbè' mbūànzā lá mā.,Bonsoir maman!
+Ŏ váh yō ò mā? Mbè'mbè' mbūànzā lá mā.,Good evening mother!
+Comment ça va ?,Yáá mà lähā ? Ŏ mà lähā?
+How are you?,Yáá mà lähā ? Ŏ mà lähā?
+Yáá mà lähā ? Ŏ mà lähā?,Comment ça va ?
+Yáá mà lähā ? Ŏ mà lähā?,How are you?
+"Ca va bien, merci.","Yáá mànnák, ngă pén ."
+"I am fine, thank you.","Yáá mànnák, ngă pén ."
+"Yáá mànnák, ngă pén .","Ca va bien, merci."
+"Yáá mànnák, ngă pén .","I am fine, thank you."
+"Je suis en santé, merci.","Ngă ntèn, ngă pén ō."
+I am in good,"Ngă ntèn, ngă pén ō."
+"Ngă ntèn, ngă pén ō.","Je suis en santé, merci."
+"Ngă ntèn, ngă pén ō.",I am in good
+Ça ne va pas.,Yǎā si mànnák bā.
+I am not fine.,Yǎā si mànnák bā.
+Yǎā si mànnák bā.,Ça ne va pas.
+Yǎā si mànnák bā.,I am not fine.
+Couci-couça [Litt. Les choses sont juste une certaine quantité].,Nň má mó' mvàk.
+I am so-so [Lit. things are just to some extent].,Nň má mó' mvàk.
+Nň má mó' mvàk.,Couci-couça [Litt. Les choses sont juste une certaine quantité].
+Nň má mó' mvàk.,I am so-so [Lit. things are just to some extent].
+Comment allez-vous ? (À plusieurs personnes),Pěn mà lāhā ?
+How are you doing? (To many people),Pěn mà lāhā ?
+Pěn mà lāhā ?,Comment allez-vous ? (À plusieurs personnes)
+Pěn mà lāhā ?,How are you doing? (To many people)
+Comment vont les enfants ?,Punkuá mà lähā?
+How are the children doing?,Punkuá mà lähā?
+Punkuá mà lähā?,Comment vont les enfants ?
+Punkuá mà lähā?,How are the children doing?
+Comment vont tes enfants?,Pōō mbỏ mà lāhā?
+How are your children?,Pōō mbỏ mà lāhā?
+Pōō mbỏ mà lāhā?,Comment vont tes enfants?
+Pōō mbỏ mà lāhā?,How are your children?
+Comment vont tes parents?,Mba' ĕ pí mã é mà lähā?
+How are your parents?,Mba' ĕ pí mã é mà lähā?
+Mba' ĕ pí mã é mà lähā?,Comment vont tes parents?
+Mba' ĕ pí mã é mà lähā?,How are your parents?
+"Couci-couça, comme ci, comme ça, ni bien ni mal. [Litt. c'est aussi-là comme ça.]",Yáá yi fà'á lá.
+"So-so, not too bad. [Lit. it is just there like that]",Yáá yi fà'á lá.
+Yáá yi fà'á lá.,"Couci-couça, comme ci, comme ça, ni bien ni mal. [Litt. c'est aussi-là comme ça.]"
+Yáá yi fà'á lá.,"So-so, not too bad. [Lit. it is just there like that]"
+"Couci-couça, comme ci, comme ça, ni bien ni mal. [Litt. une chose de grave ne s'est pas produite.]",Mo' ghà' nù kà' tōm.
+"So-so, not too bad. [Lit. something serious did not happen.]",Mo' ghà' nù kà' tōm.
+Mo' ghà' nù kà' tōm.,"Couci-couça, comme ci, comme ça, ni bien ni mal. [Litt. une chose de grave ne s'est pas produite.]"
+Mo' ghà' nù kà' tōm.,"So-so, not too bad. [Lit. something serious did not happen.]"
+"Couci-couça, comme ci, comme ça, ni bien ni mal. [Litt. on tombe et se relève.]",Wen mantāmsiē māndó.
+"So-so, not too bad. [Lit. we fall and get up.]",Wen mantāmsiē māndó.
+Wen mantāmsiē māndó.,"Couci-couça, comme ci, comme ça, ni bien ni mal. [Litt. on tombe et se relève.]"
+Wen mantāmsiē māndó.,"So-so, not too bad. [Lit. we fall and get up.]"
+"Je ne suis pas en santé, je suis malade.","N si ntèn ba, ngă màngóó."
+"I am not healthy, I am sick.","N si ntèn ba, ngă màngóó."
+"N si ntèn ba, ngă màngóó.","Je ne suis pas en santé, je suis malade."
+"N si ntèn ba, ngă màngóó.","I am not healthy, I am sick."
+Je te remercie.,Ngã pén õ.
+I thank you.,Ngã pén õ.
+Ngã pén õ.,Je te remercie.
+Ngã pén õ.,I thank you.
+Bonsoir mes frères et sœurs !,Pěn váh yēē è póómā ō ?
+Good,Pěn váh yēē è póómā ō ?
+Pěn váh yēē è póómā ō ?,Bonsoir mes frères et sœurs !
+Pěn váh yēē è póómā ō ?,Good
+Bonsoir ! [Réponse à pěn váh yẽẽ è ?],Pǎh váh yoh.
+Good evening! [Answer to pěn váh yeĕ è?],Pǎh váh yoh.
+Pǎh váh yoh.,Bonsoir ! [Réponse à pěn váh yẽẽ è ?]
+Pǎh váh yoh.,Good evening! [Answer to pěn váh yeĕ è?]
+Merci mon fils/merci ma fille.,Ngă pén ō men à.
+Thank you my son/thank you my daughter.,Ngă pén ō men à.
+Ngă pén ō men à.,Merci mon fils/merci ma fille.
+Ngă pén ō men à.,Thank you my son/thank you my daughter.
+Restez en paix.,Pèn si mà mbūànì (lá mbà).
+Stay in peace.,Pèn si mà mbūànì (lá mbà).
+Pèn si mà mbūànì (lá mbà).,Restez en paix.
+Pèn si mà mbūànì (lá mbà).,Stay in peace.
+Restez bien.,Pèn si pèpe' (lá mbà).
+Stay well.,Pèn si pèpe' (lá mbà).
+Pèn si pèpe' (lá mbà).,Restez bien.
+Pèn si pèpe' (lá mbà).,Stay well.
+Restons bien.,Páh á pèn si mbapā' lá mbà.
+Let's stay well.,Páh á pèn si mbapā' lá mbà.
+Páh á pèn si mbapā' lá mbà.,Restons bien.
+Páh á pèn si mbapā' lá mbà.,Let's stay well.
+Soyez les bienvenus ! [A plusieurs personnes],Pèn sá mbǝpā'/papē' !
+Welcome! [To many people].,Pèn sá mbǝpā'/papē' !
+Pèn sá mbǝpā'/papē' !,Soyez les bienvenus ! [A plusieurs personnes]
+Pèn sá mbǝpā'/papē' !,Welcome! [To many people].
+Vous avez fait bonne route ? [A plusieurs personnes],Tá pěn còh nnák papē' è/mbɔ̃pā' à?
+Did you have a good journey? (To many,Tá pěn còh nnák papē' è/mbɔ̃pā' à?
+Tá pěn còh nnák papē' è/mbɔ̃pā' à?,Vous avez fait bonne route ? [A plusieurs personnes]
+Tá pěn còh nnák papē' è/mbɔ̃pā' à?,Did you have a good journey? (To many
