@@ -9,8 +9,8 @@ model_emb=SentenceTransformer("all-MiniLM-L6-v2")
 
 df=pd.read_csv("data/processed/augmented_dataset.csv")
 
-tokenizer=AutoTokenizer.from_pretrained("model/nllb_finetuned")
-model=AutoModelForSeq2SeqLM.from_pretrained("model/nllb_finetuned")
+tokenizer=AutoTokenizer.from_pretrained("facebook/nllb-200-distilled-600M")
+model=AutoModelForSeq2SeqLM.from_pretrained("facebook/nllb-200-distilled-600M")
 
 def translate(text):
 
